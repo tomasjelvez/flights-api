@@ -2,6 +2,10 @@
 
 The API will be available at `http://localhost:3000/api`
 
+## Run
+
+`docker-compose up`
+
 ## API Endpoints
 
 ### Flights
